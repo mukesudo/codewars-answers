@@ -1,10 +1,11 @@
 
 ## Welcome to my Codewars Dojo! ⚔️
 
-![Codewars Badge](https://www.codewars.com/users/mukesudo/badges/large)
 
 
 **Sharpening my skills, one kata at a time.**
+
+![Codewars Badge](https://www.codewars.com/users/mukesudo/badges/large)
 
 Dive into my coding journey with:
 
