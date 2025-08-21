@@ -1,6 +1,8 @@
 
 ## Welcome to my Codewars Dojo! ⚔️
 
+https://www.codewars.com/users/mukesudo/badges/large
+
 **Sharpening my skills, one kata at a time.**
 
 Dive into my coding journey with:
