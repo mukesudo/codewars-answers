@@ -1,7 +1,7 @@
 
 ## Welcome to my Codewars Dojo! ⚔️
 
-<img src="[https://www.codewars.com/users/mukesudo/badges/large]"/>
+![Codewars Badge](https://www.codewars.com/users/mukesudo/badges/large)
 
 
 **Sharpening my skills, one kata at a time.**
